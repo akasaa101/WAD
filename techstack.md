@@ -26,7 +26,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [akasaa101/WAD](https://github.com/akasaa101/WAD)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|5<br/>Tools used|11/28/23 <br/>Report generated|
+|5<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -79,7 +79,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[six](https://pypi.org/six)|v1.7.3|08/10/15|Piotr Lizończyk |MIT|N/A|
+|[six](https://pypi.org/project/six)|v1.7.3|08/10/15|Piotr Lizończyk |MIT|N/A|
 
 <br/>
 <div align='center'>
